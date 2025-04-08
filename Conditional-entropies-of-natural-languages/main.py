@@ -1,15 +1,3 @@
-"""
-result:
-sample0 - język nienaturalny
-sample1 - język naturalny
-sample2 - język naturalny
-sample3 - język naturalny
-sample4 - język nienaturalny
-sample5 - język nienaturalny
-"""
-
-
-
 import math
 import operator
 from collections import defaultdict
